@@ -1,4 +1,4 @@
-# Operating Systemas (2º year, 2º Period)
+# Operating Systems (2º year, 2º Period)
 Project for operating systems course @ IST
 
 => Implemented a Key-Value Store (KVS) using:
